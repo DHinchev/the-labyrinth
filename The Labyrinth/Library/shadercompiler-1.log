@@ -1,0 +1,114 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-5128
+Cmd: getPlatforms
+Cmd: preprocess
+  error: 1 plat 15 at (895): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  insize=1919 outsize=2403 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5097 outsize=4735 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5097 outsize=1737 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3035 outsize=4370 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3035 outsize=2005 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3029 outsize=4264 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3029 outsize=1510 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4821 outsize=3833 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4821 outsize=1250 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2310 outsize=2265 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2310 outsize=437 kw=SHADOWS_DEPTH ok=1
+Cmd: preprocess
+  insize=718 outsize=1378 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4550 outsize=3387 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4550 outsize=1916 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2475 outsize=3037 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2475 outsize=2184 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2583 outsize=3005 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2583 outsize=1851 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4257 outsize=2972 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4257 outsize=1428 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: preprocess
+  error: 1 plat 15 at (66): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  insize=1920 outsize=782 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=947 outsize=2412 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=947 outsize=933 kw= ok=1
+Cmd: preprocess
+  error: 1 plat 15 at (40): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  insize=939 outsize=671 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=521 outsize=3297 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=521 outsize=908 kw= ok=1
+Cmd: preprocess
+  insize=4553 outsize=1891 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=8491 outsize=5353 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=8491 outsize=2233 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6485 outsize=5312 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6485 outsize=2582 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5969 outsize=3988 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5969 outsize=1038 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=8046 outsize=5142 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=8046 outsize=1485 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5776 outsize=3939 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5776 outsize=868 kw=SHADOWS_DEPTH ok=1
+Cmd: preprocess
+  insize=3098 outsize=1769 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7231 outsize=4971 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7231 outsize=5523 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4861 outsize=4622 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4861 outsize=5832 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4306 outsize=3403 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4306 outsize=3647 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6676 outsize=3387 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6676 outsize=2420 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4861 outsize=3842 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4861 outsize=5361 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3035 outsize=3606 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3035 outsize=1591 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2475 outsize=2257 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2475 outsize=1770 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6485 outsize=4597 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6485 outsize=2111 kw=DIRECTIONAL ok=1
